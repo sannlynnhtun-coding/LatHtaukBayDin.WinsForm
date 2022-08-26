@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatHtaukBayDin.WinsForm", "LatHtaukBayDin.WinsForm\LatHtaukBayDin.WinsForm.csproj", "{47DC5453-D29B-4A2A-A0C0-A223165BB9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47DC5453-D29B-4A2A-A0C0-A223165BB9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DC5453-D29B-4A2A-A0C0-A223165BB9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DC5453-D29B-4A2A-A0C0-A223165BB9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DC5453-D29B-4A2A-A0C0-A223165BB9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01908E68-79E7-4136-8AF3-3B287224C45D}
+	EndGlobalSection
+EndGlobal
